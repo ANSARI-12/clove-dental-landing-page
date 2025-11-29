@@ -99,12 +99,10 @@ _Add your desktop screenshot here_
 ### Mobile View
 
 ![Mobile Screenshot](./screenshots/mobile.png)
-_Add your mobile screenshot here_
 
 ### Tablet View
 
 ![Tablet Screenshot](./screenshots/tablet.png)
-_Add your tablet screenshot here_
 
 ## 🔧 Customization
 
@@ -183,11 +181,8 @@ This project is for educational purposes. Feel free to use and modify.
 
 ## 📞 Contact
 
++917223918402
 For questions or feedback:
 
-- Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
-
----
-
-**Built with ❤️ for Clove Dental**
+- Email: ansarishufiyan@gmail.com
+- GitHub: (https://github.com/Ansari-12)
