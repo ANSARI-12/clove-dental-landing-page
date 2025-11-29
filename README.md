@@ -4,7 +4,7 @@ A responsive landing page for Clove Dental, built from a Figma design using HTML
 
 ## 🚀 Live Demo
 
-[View Live Site](https://yourusername.github.io/clove-dental-landing-page) _(Replace with your deployed URL)_
+[View Live Site](https://ansari-12.github.io/clove-dental-landing-page)
 
 ## 📋 Project Overview
 
